@@ -1,0 +1,192 @@
+﻿,Round 1,,,,,,,,NHL Scoring Stats,,,,,,,,,,,,,,,,NHL Goalie Stats,,,,,,
+Overall,Team,Player,Nat.,Pos,Age,To,Junior Team,League,GP,G,A,PTS,+/-,PIM,Height,Weight,D-1_League,D-1_GP,D-1_G,D-1_A,D-1_TP,D-1_P/G,D-1_PIM,D-1_+/-,D0_GP,D0_G,D0_A,D0_TP,D0_P/G,D0_PIM,D0_+/-
+1,Colorado Avalanche,Nathan MacKinnon,CA,C,18,2023,Halifax Mooseheads ,QMJHL,656,247,428,675,92,292,6’0,182,QMJHL,58,31,47,78,1.34,45,11,44,32,43,75,1.7,45,40
+2,Florida Panthers,Aleksander Barkov,FI,C,18,2023,Tappara ,Finland,615,225,346,571,83,116,6’3,209,Finland,32,7,9,16,0.5,4,5,53,21,27,48,0.91,8,18
+3,Tampa Bay Lightning,Jonathan Drouin,CA,LW,18,2023,Halifax Mooseheads ,QMJHL,439,75,181,256,-72,167,5’10,186,QMJHL,33,7,22,29,0.88,12,5,49,41,64,105,2.14,32,48
+4,Nashville Predators,Seth Jones,US,D,18,2023,Portland Winterhawks ,WHL,667,71,271,342,-68,228,6’3,205,USDP/NAHL,52,8,23,31,0.6,18,0,61,14,42,56,0.92,33,46
+5,Carolina Hurricanes,Elias Lindholm,SE,C,18,2023,Brynas IF ,Sweden,682,187,278,465,20,166,6’0,192,Sweden Jr.,36,14,35,49,1.36,45,24,48,11,19,30,0.63,2,1
+6,Calgary Flames,Sean Monahan,CA,C,18,2023,Ottawa 67's ,OHL,676,217,257,474,-52,169,6’2,187,OHL,62,33,45,78,1.26,38,25,58,31,47,78,1.34,24,18
+7,Edmonton Oilers,Darnell Nurse,CA,D,18,2023,Soo Greyhounds ,OHL,497,57,146,203,41,426,6’3,185,OHL,53,1,9,10,0.19,61,15,68,12,29,41,0.6,116,15
+8,Buffalo Sabres,Rasmus Ristolainen,FI,D,18,2023,TPS ,Finland,621,48,213,261,-173,335,6’4,207,Finland,40,3,5,8,0.2,78,21,52,3,12,15,0.29,32,7
+9,Vancouver Canucks,Bo Horvat,CA,C,18,2023,London Knights ,OHL,592,186,202,388,-69,194,6’0,206,OHL,64,11,19,30,0.47,8,27,67,33,28,61,0.91,29,3
+10,Dallas Stars,Valeri Nichushkin,RU,RW,18,2023,Traktor Chelyabinsk ,Russia,412,78,108,186,70,54,6’4,202,Russia-3,38,4,6,10,0.26,6,10,18,4,2,6,0.33,0,6
+11,Philadelphia Flyers,Samuel Morin,CA,D,18,2021,Rimouski Oceanic ,QMJHL,29,1,0,1,-10,45,6’6,202,QMJHL,62,0,8,8,0.13,57,2,46,4,12,16,0.35,117,10
+12,Phoenix Coyotes,Max Domi,CA,C/LW,18,2023,London Knights ,OHL,520,106,222,328,-9,459,5’9,197,OHL,62,21,28,49,0.79,48,13,64,39,48,87,1.36,71,33
+13,Winnipeg Jets,Josh Morrissey,CA,D,18,2023,Prince Albert Raiders ,WHL,441,43,142,185,28,231,5’11,186,WHL,68,10,28,38,0.56,60,2,70,15,32,47,0.67,91,14
+14,Columbus Blue Jackets,Alexander Wennberg,SE,C,18,2023,Djurgardens IF ,Sweden-2,570,71,204,275,-15,127,6’1,190,Sweden Jr.,42,1,18,19,0.45,6,7,46,14,18,32,0.7,14,10
+15,New York Islanders,Ryan Pulock,CA,D,18,2023,Brandon Wheat Kings ,WHL,367,39,114,153,49,67,6’0,211,WHL,71,19,41,60,0.85,20,33,61,14,31,45,0.74,22,7
+16,Buffalo Sabres,Nikita Zadorov,RU,D,18,2023,London Knights ,OHL,504,31,80,111,12,521,6’5,221,Russia-3,41,2,4,6,0.15,63,20,63,6,19,25,0.4,54,33
+17,Ottawa Senators,Curtis Lazar,CA,C/RW,18,2023,Edmonton Oil Kings ,WHL,414,36,56,92,-25,92,5’11,190,WHL,63,20,11,31,0.49,56,15,72,38,23,61,0.85,47,25
+18,San Jose Sharks,Mirco Mueller,CH,D,18,2020,Everett Silvertips ,WHL,185,5,23,28,-25,61,6’3,184,U20-Elit,26,3,3,6,0.23,8,0,63,6,25,31,0.49,57,10
+19,Columbus Blue Jackets,Kerby Rychel,US,LW,18,2019,Windsor Spitfires ,OHL,43,3,11,14,5,19,6’0,205,OHL,68,41,33,74,1.09,54,3,68,40,47,87,1.28,94,21
+20,Detroit Red Wings,Anthony Mantha,CA,RW,18,2023,Val-d'Or Foreurs ,QMJHL,374,113,122,235,-29,220,6’3,190,QMJHL,63,22,29,51,0.81,39,11,67,50,39,89,1.33,71,21
+21,Toronto Maple Leafs,Frederik Gauthier,CA,C,18,2022,Rimouski Oceanic ,QMJHL,178,13,18,31,-9,47,6’4,214,QMAAA,39,26,25,51,1.31,28,0,62,22,38,60,0.97,26,22
+22,Calgary Flames,Emile Poirier,CA,LW,18,2016,Gatineau Olympiques ,QMJHL,8,0,1,1,0,2,6’0,183,QMJHL,67,15,25,40,0.6,53,17,65,32,38,70,1.08,101,0
+23,Washington Capitals,Andre Burakovsky,AT,LW,18,2023,Malmo ,Sweden-2,538,128,185,313,56,135,6’1,178,Sweden Jr.,42,17,25,42,1,43,3,43,4,7,11,0.26,8,2
+24,Vancouver Canucks,Hunter Shinkaruk,CA,C/LW,18,2017,Medicine Hat Tigers ,WHL,15,2,2,4,-7,4,5’10,181,WHL,66,49,42,91,1.38,38,17,64,37,49,86,1.34,44,13
+25,Montreal Canadiens,Michael McCarron,US,RW,18,2023,USA U-18 Development Team ,USDP/USHL,139,10,14,24,-6,206,6’5,228,USDP/NAHL,53,6,21,27,0.51,128,0,59,16,21,37,0.63,182,0
+26,Anaheim Ducks,Shea Theodore,CA,D,18,2023,Seattle Thunderbirds ,WHL,416,61,176,237,61,129,6’1,178,WHL,69,4,31,35,0.51,30,36,71,19,31,50,0.7,32,24
+27,Columbus Blue Jackets,Marko Daňo,AT,C,18,2020,HC Slovan Bratislava ,KHL,141,19,26,45,1,49,5’11,183,Slovakia,32,4,6,10,0.31,6,,37,3,4,7,0.19,26,4
+28,Calgary Flames,Morgan Klimchuk,CA,LW,18,2018,Regina Pats ,WHL,1,0,0,0,0,0,5’11,180,WHL,67,18,18,36,0.54,27,3,72,36,40,76,1.06,20,1
+29,Dallas Stars,Jason Dickinson,CA,C,18,2023,Guelph Storm ,OHL,298,34,48,82,4,89,6’1,179,OHL,63,13,22,35,0.56,24,15,66,18,29,47,0.71,31,19
+30,Chicago Blackhawks,Ryan Hartman,US,RW,18,2023,Plymouth Whalers ,OHL,456,93,108,201,48,431,5’11,181,USDP/NAHL,59,16,25,41,0.69,136,0,56,23,37,60,1.07,120,29
+31,Florida Panthers,Ian McCoshen,US,D,18,2019,Waterloo Black Hawks ,USHL,60,4,3,7,-12,33,6′ 2″,205,USHL,55,8,12,20,0.36,43,4,53,11,33,44,0.83,48,35
+32,Colorado Avalanche,Chris Bigras,CA,D,18,2018,Owen Sound Attack ,OHL,46,1,3,4,-4,18,6′ 0″,186,OHL,49,3,16,19,0.39,33,7,68,8,30,38,0.56,34,35
+33,Tampa Bay Lightning,Adam Erne,US,LW,18,2023,Quebec Remparts ,QMJHL,313,34,46,80,-51,154,6′ 0″,210,QMJHL,64,28,27,55,0.86,32,6,68,28,44,72,1.06,67,11
+34,Montreal Canadiens,Jacob de La Rose,SE,LW,18,2021,Leksands IF ,Sweden-2,242,13,25,38,-29,84,6′ 2″,190,Sweden Jr.,28,4,9,13,0.46,24,6,38,6,6,12,0.32,31,8
+35,Buffalo Sabres,J.T. Compher,US,LW,18,2023,USA U-18 Development Team ,USDP/USHL,359,72,78,150,-12,123,5′ 10″,184,USDP/NAHL,58,23,32,55,0.95,57,0,52,18,32,50,0.96,51,0
+37,Los Angeles Kings,Valentin Zykov,RU,LW,18,2020,Baie-Comeau Drakkar ,QMJHL,55,7,10,17,-2,10,6′ 0″,209,Russia-3,52,5,6,11,0.21,105,4,67,40,35,75,1.12,60,29
+38,Buffalo Sabres,Connor Hurley,US,C,18,,Edina HS ,High-MN,,,,,,,6′ 1″,174,USHS-MN,25,22,26,48,1.92,10,0,25,15,28,43,1.72,8,0
+39,Phoenix Coyotes,Laurent Dauphin,CA,C,18,2023,Chicoutimi Sagueneens ,QMJHL,74,7,9,16,-14,43,6′ 0″,165,USHS-Prep,40,17,45,62,1.55,48,0,62,25,32,57,0.92,50,0
+40,Dallas Stars,Remi Elie,CA,LW,18,2022,London Knights ,OHL,107,7,15,22,5,28,6′ 0″,203,CCHL,59,21,25,46,0.78,39,0,65,7,10,17,0.26,34,7
+41,Philadelphia Flyers,Robert Hagg,SE,D,18,2023,MODO Hockey Jr. ,Sweden Jr.,312,14,44,58,-2,186,6′ 2″,204,Sweden Jr.,44,4,13,17,0.39,46,9,28,11,13,24,0.86,24,8
+42,New Jersey Devils,Steven Santini,US,D,18,2021,USA U-18 Development Team ,USDP/USHL,119,5,17,22,-8,55,6′ 1″,207,USDP/NAHL,55,2,8,10,0.18,69,0,66,0,15,15,0.23,44,0
+43,Winnipeg Jets,Nic Petan,CA,C,18,2023,Portland Winterhawks ,WHL,156,6,25,31,-23,42,5′ 8″,165,WHL,61,14,21,35,0.57,22,7,71,46,74,120,1.69,43,68
+45,Anaheim Ducks,Nick Sorensen,DK,RW,18,2017,Quebec Remparts ,QMJHL,5,0,1,1,-1,2,6′ 0″,174,QMJHL,8,5,4,9,1.13,2,9,46,20,27,47,1.02,18,10
+46,Minnesota Wild,Gustav Olofsson,SE,D,18,2023,Green Bay Gamblers ,USHL,60,0,11,11,-4,18,6′ 3″,197,T1EHL 18U,38,5,25,30,0.79,10,0,63,2,21,23,0.37,59,11
+47,St. Louis Blues,Thomas Vannelli,US,D,18,,Minnetonka HS ,High-MN,,,,,,,6′ 2″,165,USHS-MN,28,7,18,25,0.89,8,0,27,10,25,35,1.3,14,0
+48,Detroit Red Wings,Zach Nastasiuk,CA,RW,18,,Owen Sound Attack ,OHL,,,,,,,6′ 1″,190,OHL,68,11,8,19,0.28,15,10,62,20,20,40,0.65,32,21
+49,San Jose Sharks,Gabryel Boudreau,CA,LW,18,,Baie-Comeau Drakkar ,QMJHL,,,,,,,5′ 11″,167,QMAAA,43,33,25,58,1.35,38,0,67,22,41,63,0.94,43,31
+50,Columbus Blue Jackets,Dillon Heatherington,CA,D,18,2022,Swift Current Broncos ,WHL,20,0,2,2,6,33,6′ 3″,196,WHL,57,2,8,10,0.18,63,2,71,4,23,27,0.38,80,25
+51,Chicago Blackhawks,Carl Dahlstrom,SE,D,18,2022,Linkoping HC Jr. ,Sweden Jr.,67,0,12,12,5,14,6′ 3″,211,J18-Elit,20,1,7,8,0.4,2,22,37,5,8,13,0.35,12,18
+52,Buffalo Sabres,Justin Bailey,US,RW,18,2022,Kitchener Rangers ,OHL,82,5,4,9,-11,18,6′ 3″,186,AYHL 16U,22,21,13,34,1.55,52,0,57,17,19,36,0.63,34,22
+53,Washington Capitals,Madison Bowey,CA,D,18,2022,Kelowna Rockets ,WHL,158,5,35,40,-22,104,6′ 0″,195,WHL,57,8,13,21,0.37,39,3,69,12,18,30,0.43,75,41
+55,Montreal Canadiens,Artturi Lehkonen,FI,LW,18,2023,KalPa ,Finland,430,86,88,174,1,122,5′ 11″,163,Finland Jr.,40,28,26,54,1.35,54,22,45,14,16,30,0.67,12,12
+56,Edmonton Oilers,Marc-Olivier Roy,CA,C,18,,Blainville-Boisbriand Armada ,QMJHL,,,,,,,6′ 0″,175,QMJHL,63,17,22,39,0.62,29,26,65,29,38,67,1.03,68,12
+57,St. Louis Blues,William Carrier,CA,LW,18,2023,Cape Breton Screaming Eagles ,QMJHL,338,43,41,84,3,162,6′ 1″,198,QMJHL,66,27,43,70,1.06,65,10,34,16,26,42,1.24,41,14
+58,Detroit Red Wings,Tyler Bertuzzi,CA,LW,18,2023,Guelph Storm ,OHL,282,85,105,190,-31,168,6′ 0″,178,OHL,61,6,11,17,0.28,117,2,43,13,9,22,0.51,68,2
+60,Boston Bruins,Linus Arnesson,SE,D,18,,Djurgardens IF ,Sweden-2,,,,,,,6′ 2″,187,Sweden Jr.,40,2,13,15,0.38,20,7,31,0,1,1,0.03,8,3
+61,Washington Capitals,Zachary Sanford,US,LW,18,2023,Islanders Hockey Club ,EJHL,297,48,49,97,-8,136,6′ 3″,185,USHS-NH,21,36,33,69,3.29,40,0,37,12,24,36,0.97,22,0
+62,Phoenix Coyotes,Pavel Laplante,CA,C,18,,Prince Edward Island Rocket ,QMJHL,,,,,,,6′ 0″,178,QMJHL,57,6,15,21,0.37,33,33,18,5,8,13,0.72,12,11
+64,Nashville Predators,Jonathan Diaby,CA,D,18,,Victoriaville Tigres ,QMJHL,,,,,,,6′ 5″,223,QMJHL,51,1,8,9,0.18,64,8,67,4,22,26,0.39,117,12
+65,New York Rangers,Adam Tambellini,CA,C,18,,Surrey ,BCHL,,,,,,,6′ 2″,169,BCHL,55,27,29,56,1.02,28,0,52,36,29,65,1.25,26,0
+66,Carolina Hurricanes,Brett Pesce,US,D,18,2023,New Hampshire ,H-East,495,31,127,158,75,174,6′ 2″,170,EJHL,17,1,5,6,0.35,18,0,38,1,5,6,0.16,10,6
+67,Calgary Flames,Keegan Kanzig,CA,D,18,,Victoria Royals ,WHL,,,,,,,6′ 7″,241,WHL,63,0,2,2,0.03,66,17,70,0,7,7,0.1,159,10
+68,Dallas Stars,Niklas Hansson,SE,D,18,,Rogle BK Jr. ,Sweden Jr.,,,,,,,6′ 0″,175,J18-Elit,22,3,21,24,1.09,6,43,39,3,20,23,0.59,47,26
+69,Buffalo Sabres,Nicholas Baptiste,CA,RW,18,2018,Sudbury Wolves ,OHL,47,7,3,10,-3,20,6′ 0″,189,OHL,64,8,19,27,0.42,42,7,66,21,27,48,0.73,44,1
+71,Montreal Canadiens,Connor Crisp,CA,LW,19,,Erie Otters ,OHL,,,,,,,6′ 3″,225,OHL,6,0,1,1,0.17,4,5,63,22,14,36,0.57,139,31
+72,Philadelphia Flyers,Tyrell Goulbourne,CA,LW,19,2019,Kelowna Rockets ,WHL,11,0,0,0,-2,2,5′ 10″,195,WHL,63,6,8,14,0.22,109,8,64,14,13,27,0.42,135,7
+73,New Jersey Devils,Ryan Kujawinski,CA,C,18,,Kingston Frontenacs ,OHL,,,,,,,6′ 1″,204,OHL,59,16,20,36,0.61,17,13,66,17,31,48,0.73,40,12
+74,Chicago Blackhawks,John Hayden,US,C,18,2022,USA U-18 Development Team ,USDP/USHL,240,15,20,35,-31,283,6′ 2″,210,USDP/NAHL,55,11,15,26,0.47,65,0,53,17,17,34,0.64,80,0
+75,New York Rangers,Pavel Buchnevich,RU,LW,18,2023,Almaz Cherepovets ,Russia Jr.,388,114,170,284,38,150,6′ 1″,176,Russia-3,45,15,29,44,0.98,55,15,24,8,15,23,0.96,36,2
+76,New York Islanders,Taylor Cammarata,US,C/LW,18,,Waterloo Black Hawks ,USHL,,,,,,,5′ 7″,156,USHL,60,27,42,69,1.15,6,1,59,38,55,93,1.58,49,39
+77,Pittsburgh Penguins,Jake Guentzel,US,C,18,2023,Sioux City Musketeers ,USHL,391,171,188,359,40,174,5′ 9″,157,USHS-MN,31,23,52,75,2.42,16,0,60,29,44,73,1.22,24,13
+79,Detroit Red Wings,Mattias Janmark,SE,C,20,2023,AIK ,Sweden,426,66,93,159,-20,109,6′ 1″,189,Sweden Jr.,40,23,38,61,1.53,30,20,55,14,17,31,0.56,32,4
+80,New York Rangers,Anthony Duclair,CA,LW,18,2022,Quebec Remparts ,QMJHL,470,120,132,252,43,163,5′ 11″,177,QMJHL,63,31,35,66,1.05,50,38,55,20,30,50,0.91,22,23
+81,Minnesota Wild,Kurtis Gabriel,CA,RW,20,2022,Owen Sound Attack ,OHL,51,2,3,5,2,153,6′ 4″,212,OHL,65,4,13,17,0.26,72,4,67,13,15,28,0.42,100,14
+82,Toronto Maple Leafs,Carter Verhaeghe,CA,C,18,2023,Niagara IceDogs ,OHL,193,62,60,122,41,101,6′ 1″,181,OHL,62,4,12,16,0.26,10,6,67,18,26,44,0.66,22,12
+83,Edmonton Oilers,Bogdan Yakimov,RU,C,18,2015,Reaktor Nizhnekamsk ,Russia Jr.,1,0,0,0,-1,0,6′ 5″,202,Russia-3,46,15,10,25,0.54,10,4,11,6,7,13,1.18,2,8
+84,Winnipeg Jets,Jimmy Lodge,US,C,18,,Saginaw Spirit ,OHL,,,,,,,6′ 0″,166,OHL,45,8,4,12,0.27,10,10,64,28,39,67,1.05,28,4
+85,Vancouver Canucks,Cole Cassels,US,C,18,,Oshawa Generals ,OHL,,,,,,,6′ 0″,178,OHL,64,3,8,11,0.17,31,1,64,15,28,43,0.67,61,7
+86,Montreal Canadiens,Sven Andrighetto,CH,RW,20,2019,Rouyn-Noranda Huskies ,QMJHL,216,31,52,83,-3,42,5′ 9″,175,QMJHL,62,36,38,74,1.19,50,23,53,31,67,98,1.85,45,25
+87,Anaheim Ducks,Keaton Thompson,US,D,18,,USA U-18 Development Team ,USDP/USHL,,,,,,,6′ 0″,187,USDP/NAHL,54,5,17,22,0.41,33,0,67,4,18,22,0.33,40,0
+88,Edmonton Oilers,Anton Slepyshev,RU,LW,19,2018,Salavat Yulaev Ufa ,Russia,102,10,13,23,-4,14,6′ 2″,194,Russia,39,4,3,7,0.18,2,8,26,7,2,9,0.35,4,2
+89,Columbus Blue Jackets,Oliver Bjorkstrand,DK,RW,18,2023,Portland Winterhawks ,WHL,401,113,131,244,-20,76,5′ 10″,166,Denmark,36,13,13,26,0.72,10,13,65,31,32,63,0.97,10,38
+90,Boston Bruins,Peter Cehlarik,SK,LW,18,2020,Lulea HF Jr. ,Sweden Jr.,40,5,6,11,4,10,6′ 2″,192,J18-Elit,12,8,8,16,1.33,0,7,38,17,20,37,0.97,10,1
+91,Winnipeg Jets,J.C. Lipon,CA,RW,20,2016,Kamloops Blazers ,WHL,9,0,1,1,0,5,5′ 11″,180,WHL,69,19,46,65,0.94,111,23,61,36,53,89,1.46,115,34
+93,Colorado Avalanche,Mason Geertsen,CA,D,18,2022,Vancouver Giants ,WHL,25,0,0,0,-6,77,6′ 3″,199,WHL,34,0,3,3,0.09,70,5,73,2,12,14,0.19,130,28
+94,Edmonton Oilers,Jackson Houck,CA,RW,18,,Vancouver Giants ,WHL,,,,,,,6′ 0″,186,WHL,53,8,12,20,0.38,39,15,69,23,34,57,0.83,68,16
+95,Nashville Predators,Felix Girard,CA,C,19,,Baie-Comeau Drakkar ,QMJHL,,,,,,,5′ 11″,190,QMJHL,60,6,15,21,0.35,63,6,58,23,38,61,1.05,58,18
+96,Edmonton Oilers,Kyle Platzer,CA,C,18,,London Knights ,OHL,,,,,,,5′ 11″,185,OHL,4,0,1,1,0.25,0,1,65,5,17,22,0.34,15,7
+97,Florida Panthers,Michael Downing,US,D,18,,Dubuque Fighting Saints ,USHL,,,,,,,6′ 2″,192,USHL,54,4,10,14,0.26,68,1,52,3,20,23,0.44,107,16
+98,Florida Panthers,Matt Buckles,CA,C,18,,St. Michael's ,OJHL,,,,,,,6′ 1″,205,OPJHL,46,15,21,36,0.78,76,0,50,40,31,71,1.42,107,0
+100,New Jersey Devils,Miles Wood,US,LW,18,2023,Noble & Greenough School ,High-MA,346,71,60,131,-55,384,6′ 0″,160,EJHL,14,8,1,9,0.64,28,0,15,8,10,18,1.2,18,0
+101,Dallas Stars,Nicholas Paul,CA,LW,18,2023,Brampton Battalion ,OHL,267,42,51,93,-17,98,6′ 2″,202,U18 AAA,63,48,60,108,1.71,0,0,66,12,16,28,0.42,21,6
+102,Ottawa Senators,Tobias Lindberg,SE,RW,18,2016,Djurgardens IF Jr. ,Sweden Jr.,6,0,2,2,0,4,6′ 3″,200,J18-Elit,22,13,12,25,1.14,10,23,43,9,13,22,0.51,30,2
+103,Los Angeles Kings,Justin Auger,CA,RW,19,2018,Guelph Storm ,OHL,2,0,0,0,-1,0,6′ 7″,229,OHL,58,7,7,14,0.24,39,9,68,16,17,33,0.49,39,5
+104,Winnipeg Jets,Andrew Copp,US,C,19,2023,Michigan ,CCHA,502,83,129,212,67,94,6′ 0″,188,USDP/NAHL,32,6,11,17,0.53,4,0,38,11,10,21,0.55,12,4
+105,Columbus Blue Jackets,Nick Moutrey,CA,C/LW,18,,Saginaw Spirit ,OHL,,,,,,,6′ 2″,208,OHL,66,2,7,9,0.14,46,12,65,16,27,43,0.66,44,2
+107,Minnesota Wild,Dylan Labbe,CA,D,18,,Shawinigan Cataractes ,QMJHL,,,,,,,6′ 1″,205,QMAAA,38,13,11,24,0.63,30,0,61,7,21,28,0.46,57,40
+108,Ottawa Senators,Ben Harpur,CA,D,18,2022,Guelph Storm ,OHL,156,1,14,15,-42,123,6′ 5″,210,OHL,34,1,3,4,0.12,22,1,67,3,12,15,0.22,59,14
+109,Detroit Red Wings,David Pope,CA,LW,18,,West Kelowna ,BCHL,,,,,,,6′ 2″,187,BCHL,44,8,17,25,0.57,31,0,42,17,22,39,0.93,20,0
+110,New York Rangers,Ryan Graves,CA,D,18,2023,Prince Edward Island Rocket ,QMJHL,244,23,58,81,67,130,6′ 4″,220,QMJHL,62,2,7,9,0.15,34,23,68,3,13,16,0.24,90,7
+111,Chicago Blackhawks,Robin Norell,SE,D,18,,Djurgardens IF Jr. ,Sweden Jr.,,,,,,,5′ 11″,189,J18-Elit,21,2,6,8,0.38,6,14,33,1,4,5,0.15,4,5
+112,St. Louis Blues,Zach Pochiro,US,LW,19,,Prince George Cougars ,WHL,,,,,,,6′ 1″,159,USDP/NAHL,52,18,16,34,0.65,154,8,65,15,24,39,0.6,105,4
+113,Edmonton Oilers,Aidan Muir,CA,W,18,,Victory Honda ,T1EHL 18U,,,,,,,6′ 3″,182,T1EHL 16U,40,13,7,20,0.5,8,0,37,17,23,40,1.08,41,0
+114,Winnipeg Jets,Jan Kostalek,CZ,D,18,,Rimouski Oceanic ,QMJHL,,,,,,,6′ 0″,181,Czech U20,32,3,4,7,0.22,30,7,48,5,13,18,0.38,53,17
+115,Vancouver Canucks,Jordan Subban,CA,D,18,,Belleville Bulls ,OHL,,,,,,,5′ 9″,175,OHL,56,5,15,20,0.36,31,23,68,15,36,51,0.75,47,22
+116,Montreal Canadiens,Martin Reway,CZ,LW,18,,Gatineau Olympiques ,QMJHL,,,,,,,5′ 8″,158,Czech U20,5,2,4,6,1.2,2,4,47,22,28,50,1.06,56,1
+118,Los Angeles Kings,Hudson Fasching,US,RW,18,2022,USA U-18 Development Team ,USDP/USHL,38,1,2,3,-6,8,6′ 1″,213,USDP/NAHL,55,16,20,36,0.65,52,0,62,10,23,33,0.53,43,14
+119,Pittsburgh Penguins,Ryan Segalla,US,D,18,,Salisbury School ,High-CT,,,,,,,6′ 0″,190,USHS-Prep,28,6,6,12,0.43,0,0,29,10,8,18,0.62,28,0
+120,Boston Bruins,Ryan Fitzgerald,US,C,18,,Valley ,EJHL,,,,,,,5′ 9″,170,USHS-Prep,19,31,20,51,2.68,0,0,26,14,16,30,1.15,50,0
+121,Chicago Blackhawks,Tyler Motte,US,C,18,2023,USA U-18 Development Team ,USDP/USHL,288,37,32,69,-21,78,5′ 9″,190,USDP/NAHL,55,26,16,42,0.76,62,0,67,26,19,45,0.67,50,0
+122,Florida Panthers,Christopher Clapperton,CA,LW,19,,Blainville-Boisbriand Armada ,QMJHL,,,,,,,5′ 9″,174,QMJHL,56,18,37,55,0.98,40,14,67,34,43,77,1.15,71,17
+123,Colorado Avalanche,Will Butcher,US,D,18,2022,USA U-18 Development Team ,USDP/USHL,275,16,98,114,-37,34,5′ 9″,191,USDP/NAHL,56,8,25,33,0.59,10,0,67,11,26,37,0.55,8,0
+125,Nashville Predators,Saku Maenalanen,FI,RW,19,2023,Karpat Jr. ,Finland Jr.,52,5,5,10,0,24,6′ 3″,176,U18-SM Sarja,32,13,29,42,1.31,40,0,45,23,35,58,1.29,43,19
+126,Carolina Hurricanes,Brent Pedersen,CA,LW,18,,Kitchener Rangers ,OHL,,,,,,,6′ 2″,205,OHL,65,9,5,14,0.22,12,10,67,14,16,30,0.45,52,11
+127,Winnipeg Jets,Tucker Poolman,US,D,20,2023,Omaha Lancers ,USHL,163,6,17,23,2,38,6′ 2″,199,USDP/NAHL,59,7,22,29,0.49,29,5,64,14,14,28,0.44,49,7
+128,Edmonton Oilers,Evan Campbell,CA,LW,20,,Langley ,BCHL,,,,,,,6′ 1″,175,BCHL,48,12,9,21,0.44,35,0,51,20,46,66,1.29,46,0
+130,Buffalo Sabres,Gustav Possler,SE,RW,18,,MODO Hockey Jr. ,Sweden Jr.,,,,,,,6′ 0″,183,Sweden Jr.,37,23,17,40,1.08,14,17,36,19,21,40,1.11,28,14
+131,Dallas Stars,Cole Ully,CA,LW,18,,Kamloops Blazers ,WHL,,,,,,,5′ 10″,164,WHL,55,9,11,20,0.36,2,7,62,22,28,50,0.81,37,27
+132,Philadelphia Flyers,Terrance Amorosa,CA,D,18,,Holderness School ,High-NH,,,,,,,6′ 1″,185,USHS-Prep,29,6,9,15,0.52,0,0,27,9,13,22,0.81,0,0
+133,Phoenix Coyotes,Connor Clifton,US,D,18,2023,USA U-18 Development Team ,USDP/USHL,174,7,21,28,25,123,5′ 10″,175,USDP/NAHL,12,1,1,2,0.17,24,0,66,8,15,23,0.35,114,7
+134,Chicago Blackhawks,Luke Johnson,US,C,18,2021,Lincoln Stars ,USHL,32,1,1,2,-16,13,5′ 11″,179,USHL,55,20,35,55,1,52,22,57,19,27,46,0.81,32,17
+135,Calgary Flames,Eric Roy,CA,D,18,,Brandon Wheat Kings ,WHL,,,,,,,6′ 2″,180,WHL,69,11,42,53,0.77,55,1,72,17,22,39,0.54,37,32
+136,New York Islanders,Victor CrusRydberg,SE,C,18,,Linkoping HC Jr. ,Sweden Jr.,,,,,,,5′ 11″,190,J18-Elit,22,8,15,23,1.05,24,19,35,12,23,35,1,24,10
+137,Minnesota Wild,Carson Soucy,CA,D,19,2023,Spruce Grove ,AJHL,191,19,38,57,49,143,6′ 4″,209,AMHL,30,9,20,29,0.97,100,0,35,5,10,15,0.43,71,0
+138,Ottawa Senators,Vincent Dunn,CA,C,18,,Val-d'Or Foreurs ,QMJHL,,,,,,,5′ 11″,172,QMJHL,56,5,8,13,0.23,94,12,53,25,27,52,0.98,98,21
+139,Detroit Red Wings,Mitchell Wheaton,CA,D,18,,Kelowna Rockets ,WHL,,,,,,,6′ 4″,228,AJHL,45,7,7,14,0.31,62,0,39,1,7,8,0.21,27,20
+140,Nashville Predators,Teemu Kivihalme,US,D,18,,Burnsville HS ,High-MN,,,,,,,5′ 11″,161,USHS-MN,25,8,21,29,1.16,25,0,25,9,21,30,1.2,22,0
+141,San Jose Sharks,Michael Brodzinski,US,D,18,,Muskegon Lumberjacks ,USHL,,,,,,,5′ 11″,190,USHS-MN,25,13,20,33,1.32,26,0,61,16,17,33,0.54,47,10
+142,Toronto Maple Leafs,Fabrice Herzog,CH,RW,18,,Zug Jr. ,Swiss Jr.,,,,,,,6′ 2″,176,U20-Elit,35,18,14,32,0.91,45,0,32,28,17,45,1.41,26,0
+143,Buffalo Sabres,Anthony Florentino,US,D,18,,Selects Academy 18U AAA ,18U AAA,,,,,,,6′ 1″,227,USHS-Prep,36,5,14,19,0.53,0,0,62,21,32,53,0.85,68,0
+144,Washington Capitals,Blake Heinrich,US,D,18,,Sioux City Musketeers ,USHL,,,,,,,5′ 10″,194,USHS-MN,25,8,23,31,1.24,24,0,42,3,17,20,0.48,110,12
+145,Vancouver Canucks,Anton Cederholm,SE,D,18,,Rogle BK Jr. ,Sweden Jr.,,,,,,,6′ 1″,204,Sweden Jr.,41,3,5,8,0.2,71,10,36,5,8,13,0.36,64,27
+147,Anaheim Ducks,Grant Besse,US,RW,19,,Benilde-St. Margaret's School ,High-MN,,,,,,,5′ 9″,177,USHS-MN,25,40,35,75,3,20,0,25,44,25,69,2.76,16,0
+148,Los Angeles Kings,Jonny Brodzinski,US,C,20,2022,St. Cloud State ,WCHA,84,8,7,15,7,24,6′ 0″,202,USHL,58,10,12,22,0.38,18,5,42,22,11,33,0.79,10,28
+149,Dallas Stars,Matej Paulovic,SK,LW,18,,Farjestad BK Jr. ,Sweden Jr.,,,,,,,6′ 3″,187,Sweden Jr.,12,2,1,3,0.25,6,2,34,5,12,17,0.5,6,8
+150,Boston Bruins,Wiley Sherman,US,D,18,,Hotchkiss School ,High-CT,,,,,,,6′ 5″,206,USHS-Prep,24,2,5,7,0.29,0,0,26,4,6,10,0.38,32,0
+151,San Jose Sharks,Gage Ausmus,US,D,18,,USA U-18 Development Team ,USDP/USHL,,,,,,,6′ 0″,211,USDP/NAHL,54,2,4,6,0.11,60,0,66,2,12,14,0.21,54,0
+152,Florida Panthers,Joshua Brown,CA,D,19,2023,Oshawa Generals ,OHL,188,6,14,20,-12,150,6′ 5″,213,OHL,46,0,4,4,0.09,49,9,68,0,16,16,0.24,79,17
+153,Colorado Avalanche,Ben Storm,US,D,19,,Muskegon Lumberjacks ,USHL,,,,,,,6′ 6″,216,USHS-MI,26,15,20,35,1.35,24,0,52,2,10,12,0.23,82,8
+154,Tampa Bay Lightning,Henri Ikonen,FI,LW,19,,Kingston Frontenacs ,OHL,,,,,,,5′ 11″,184,Finland Jr.,37,17,28,45,1.22,18,12,61,22,29,51,0.84,30,2
+155,Nashville Predators,Emil Pettersson,SE,C,19,,Timra IK Jr. ,Sweden Jr.,,,,,,,6′ 1″,158,Sweden Jr.,17,4,2,6,0.35,10,1,44,13,31,44,1,38,4
+156,Carolina Hurricanes,Tyler Ganly,CA,D,18,,Soo Greyhounds ,OHL,,,,,,,6′ 1″,201,GTHL U18,39,9,15,24,0.62,60,0,62,0,17,17,0.27,64,2
+157,Calgary Flames,Tim Harrison,US,RW,19,,Dexter Southfield School ,High-MA,,,,,,,6′ 3″,175,USHS-Prep,21,13,13,26,1.24,0,0,28,21,22,43,1.54,0,0
+158,Edmonton Oilers,Ben Betker,CA,D,18,,Everett Silvertips ,WHL,,,,,,,6′ 5″,200,BCHL,59,5,13,18,0.31,52,0,68,1,5,6,0.09,100,21
+159,Buffalo Sabres,Sean Malone,US,C,18,2021,USA U-18 Development Team ,USDP/USHL,2,0,1,1,-1,2,5′ 11″,183,USHS-Prep,32,34,36,70,2.19,0,0,50,16,17,33,0.66,19,0
+160,New Jersey Devils,Myles Bell,CA,RW,20,,Kelowna Rockets ,WHL,,,,,,,5′ 11″,212,WHL,54,15,26,41,0.76,55,18,69,38,55,93,1.35,68,46
+161,Ottawa Senators,Chris Leblanc,US,RW,20,,South Shore ,EJHL,,,,,,,6′ 3″,195,USHS-MA,0,0,0,0,0,0,0,44,13,20,33,0.75,38,0
+164,Pittsburgh Penguins,Dane Birks,CA,D,18,,Merritt ,BCHL,,,,,,,6′ 3″,190,BCHL,10,0,0,0,0,12,0,52,5,15,20,0.38,28,0
+165,Columbus Blue Jackets,Markus Soberg,NO,RW,18,,Frolunda HC Jr. ,Sweden Jr.,,,,,,,6′ 0″,187,Sweden Jr.,25,5,5,10,0.4,14,3,36,10,16,26,0.72,20,29
+166,New York Islanders,Alan Quine,CA,C,20,2020,Belleville Bulls ,OHL,106,10,18,28,-5,22,5′ 11″,188,OHL,65,30,40,70,1.08,21,19,54,23,44,67,1.24,20,15
+167,Minnesota Wild,Avery Peterson,US,C,18,,Grand Rapids HS ,High-MN,,,,,,,6′ 3″,208,USHS-MN,25,14,32,46,1.84,46,0,23,23,31,54,2.35,2,0
+168,Ottawa Senators,Quentin Shore,US,C,19,,Denver ,WCHA,,,,,,,6′ 1″,189,USDP/NAHL,60,17,10,27,0.45,31,0,39,10,9,19,0.49,22,2
+169,Detroit Red Wings,Marc McNulty,CA,D,18,,Prince George Cougars ,WHL,,,,,,,6′ 5″,185,WHL,21,0,0,0,0,8,6,52,8,7,15,0.29,70,18
+171,Nashville Predators,Tommy Veilleux,CA,LW,18,,Victoriaville Tigres ,QMJHL,,,,,,,6′ 0″,188,QMJHL,38,1,4,5,0.13,71,2,66,11,17,28,0.42,129,6
+173,St. Louis Blues,Santeri Saari,FI,D,18,,Jokerit Jr. ,Finland Jr.,,,,,,,6′ 2″,191,U18-SM Sarja,25,6,14,20,0.8,26,0,46,5,18,23,0.5,34,5
+174,Washington Capitals,Brian Pinho,US,C,18,2021,St. John's Prep ,High-MA,2,0,0,0,-2,0,6′ 0″,173,USHS-Prep,24,20,37,57,2.38,0,0,21,12,24,36,1.71,24,0
+175,Vancouver Canucks,Mike Williamson,CA,D,20,,Spruce Grove ,AJHL,,,,,,,6′ 2″,187,AJHL,41,9,9,18,0.44,73,0,23,1,10,11,0.48,35,0
+176,Montreal Canadiens,Jeremy Gregoire,CA,C,18,,Baie-Comeau Drakkar ,QMJHL,,,,,,,5′ 11″,190,QMJHL,61,15,15,30,0.49,59,6,62,19,13,32,0.52,100,9
+177,Anaheim Ducks,Miro Aaltonen,FI,C,20,,Blues ,Finland,,,,,,,5′ 10″,172,Finland Jr.,14,10,17,27,1.93,14,19,32,11,5,16,0.5,22,2
+178,Los Angeles Kings,Zachary Leslie,CA,D,19,,Guelph Storm ,OHL,,,,,,,6′ 0″,175,OHL,65,2,15,17,0.26,54,3,68,12,28,40,0.59,58,16
+179,Pittsburgh Penguins,Blaine Byron,CA,C,18,,Smiths Falls ,CCHL,,,,,,,5′ 11″,163,CCHL,42,12,27,39,0.93,20,0,51,12,40,52,1.02,24,0
+180,Boston Bruins,Anton Blidh,SE,LW,18,2023,Frolunda HC Jr. ,Sweden Jr.,74,4,8,12,-11,39,5′ 11″,184,J18-Elit,20,5,12,17,0.85,16,6,43,17,10,27,0.63,80,13
+181,Chicago Blackhawks,Anthony Louis,US,C,18,,USA U-18 Development Team ,USDP/USHL,,,,,,,5′ 6″,145,USDP/NAHL,56,27,15,42,0.75,18,0,62,22,29,51,0.82,20,0
+182,Dallas Stars,Aleksi Makela,FI,D,18,,Ilves Jr. ,Finland Jr.,,,,,,,6′ 1″,195,U18-SM Sarja,26,3,8,11,0.42,6,0,37,8,9,17,0.46,42,3
+183,Colorado Avalanche,Wilhelm Westlund,SE,D,18,,Farjestad BK Jr. ,Sweden Jr.,,,,,,,5′ 11″,184,Sweden Jr.,33,3,4,7,0.21,12,3,33,3,12,15,0.45,76,10
+184,Tampa Bay Lightning,Saku Salminen,FI,C,18,,Kiekko-Vantaa ,Finland-2,,,,,,,6′ 3″,198,Finland Jr.,44,9,17,26,0.59,16,11,12,1,4,5,0.42,0,1
+185,Nashville Predators,Wade Murphy,CA,RW,19,,Pentiction ,BCHL,,,,,,,5′ 11″,176,BCHL,60,36,55,91,1.52,66,0,50,23,47,70,1.4,50,0
+186,Tampa Bay Lightning,Joel Vermin,CH,RW,21,2017,SC Bern ,Swiss,24,0,4,4,3,4,5′ 11″,192,NLA,33,11,9,20,0.61,0,9,33,11,9,20,0.61,0,9
+187,Calgary Flames,Rushan Rafikov,RU,D,18,,Loko Yaroslavl ,Russia Jr.,,,,,,,6′ 2″,181,Russia-3,26,4,2,6,0.23,14,5,53,1,9,10,0.19,38,11
+188,Edmonton Oilers,Gregory Chase,CA,C/RW,18,,Calgary Hitmen ,WHL,,,,,,,6′ 0″,195,WHL,60,6,22,28,0.47,41,2,69,17,32,49,0.71,58,11
+189,Buffalo Sabres,Eric Locke,US,C,19,,Saginaw Spirit ,OHL,,,,,,,5′ 10″,184,OHL,52,20,20,40,0.77,34,2,68,44,53,97,1.43,84,37
+190,Winnipeg Jets,Brenden Kichton,CA,D,21,,Spokane Chiefs ,WHL,,,,,,,5′ 10″,175,WHL,71,17,57,74,1.04,49,24,71,22,63,85,1.2,30,39
+191,Los Angeles Kings,Dominik Kubalik,CZ,LW,18,2023,Sudbury Wolves ,OHL,221,71,66,137,-12,52,6′ 2″,179,Czech U20,24,11,6,17,0.71,22,9,67,17,17,34,0.51,25,3
+192,Philadelphia Flyers,David Drake,US,D,18,,Des Moines Buccaneers ,USHL,,,,,,,6′ 3″,155,NAPHL 16U,18,1,4,5,0.28,22,0,12,1,0,1,0.08,6,13
+193,Phoenix Coyotes,Jedd Soleway,CA,C,19,,Pentiction ,BCHL,,,,,,,6′ 2″,208,BCHL,58,13,12,25,0.43,50,0,48,19,27,46,0.96,62,0
+194,Winnipeg Jets,Marcus Karlstrom,SE,D,18,,AIK Jr. ,Sweden Jr.,,,,,,,6′ 2″,181,J18-Elit,20,1,6,7,0.35,16,25,5,1,0,1,0.2,0,4
+195,Columbus Blue Jackets,Peter Quenneville,CA,C/RW,19,,Dubuque Fighting Saints ,USHL,,,,,,,5′ 11″,183,AJHL,53,31,50,81,1.53,22,0,63,33,37,70,1.11,18,29
+196,New York Islanders,Kyle Burroughs,CA,D,18,2023,Regina Pats ,WHL,58,2,5,7,-7,61,5′ 11″,182,WHL,55,2,6,8,0.15,54,7,70,5,28,33,0.47,91,8
+197,Minnesota Wild,Nolan De Jong,CA,D,18,,Victoria ,BCHL,,,,,,,6′ 2″,199,BCHL,56,2,15,17,0.3,20,0,51,5,19,24,0.47,16,0
+198,Calgary Flames,John Gilmour,CA,D,20,2020,Providence ,H-East,37,2,3,5,-16,18,5′ 11″,173,USHL,58,10,14,24,0.41,14,0,38,4,9,13,0.34,35,3
+199,Detroit Red Wings,Hampus Melen,SE,RW,18,,Tingsryds AIF Jr. ,Sweden Jr.,,,,,,,6′ 2″,165,J18-Elit,26,9,22,31,1.19,16,7,5,0,0,0,0,2,3
+201,San Jose Sharks,Jacob Jackson,US,C,18,,Tartan HS ,High-MN,,,,,,,5′ 11″,182,USHS-MN,25,24,19,43,1.72,28,0,25,29,27,56,2.24,10,0
+202,Toronto Maple Leafs,Andreas Johnson,SE,LW,18,2022,Frolunda HC Jr. ,Sweden Jr.,246,48,65,113,15,88,5′ 10″,183,Sweden Jr.,42,19,13,32,0.76,75,17,42,23,31,54,1.29,54,29
+204,Washington Capitals,Tyler Lewington,CA,D,18,2022,Medicine Hat Tigers ,WHL,12,1,2,3,4,40,6′ 1″,189,WHL,44,0,3,3,0.07,46,7,69,2,24,26,0.38,131,14
+205,Vancouver Canucks,Miles Liberati,US,D,18,,London Knights ,OHL,,,,,,,5′ 11″,195,CAHS,0,0,0,0,0,0,0,42,3,6,9,0.21,25,5
+206,Florida Panthers,MacKenzie Weegar,CA,D,19,2023,Halifax Mooseheads ,QMJHL,325,27,99,126,80,273,5′ 11″,183,CCHL,53,13,37,50,0.94,61,0,62,8,36,44,0.71,58,55
+207,San Jose Sharks,Emil Galimov,RU,LW,21,,Lokomotiv Yaroslavl ,Russia,,,,,,,6′ 1″,169,Russia-3,17,9,9,18,1.06,35,7,33,7,13,20,0.61,10,8
+209,Pittsburgh Penguins,Troy Josephs,CA,C,19,,St. Michael's ,OJHL,,,,,,,5′ 11″,176,OPJHL,41,11,13,24,0.59,10,0,42,17,20,37,0.88,64,0
+210,Boston Bruins,Mitchell Dempsey,CA,LW,18,,Soo Greyhounds ,OHL,,,,,,,6′ 2″,204,OHL,34,1,4,5,0.15,29,8,36,1,4,5,0.14,17,0
+211,Chicago Blackhawks,Robin Press,SE,D,18,,Sodertalje SK ,Sweden-2,,,,,,,6′ 2″,187,J18-Elit,16,4,10,14,0.88,34,2,41,2,2,4,0.1,10,2
