@@ -1,0 +1,213 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11
+Round,Pick,,Team,Player,Position,Nationality,Height,Weight,Junior Team,Junior League
+1,1,1 NA,TBL,Steven Stamkos,C,CAN,6′ 1,188,Sarnia,OHL
+1,2,2 NA,LAK,Drew Doughty,D,CAN,6′ 0,212,Guelph,OHL
+1,3,3 NA,ATL,Zach Bogosian,D,USA,6′ 3,215,Peterborough,OHL
+1,4,5 NA,STL,Alex Pietrangelo,D,CAN,6′ 3,206,Niagara,OHL
+1,5,7 NA,TOR,Luke Schenn,D,CAN,6′ 2,229,Kelowna,WHL
+1,6,1 EUR,CBJ,Nikita Filatov,L,RUS,6′ 0,190,CSKA 2,RUSSIA-3
+1,7,9 NA,NSH,Colin Wilson,C,USA,6′ 1,214,Boston University,H-EAST
+1,8,13 NA,PHX,Mikkel Boedker,L,DNK,5′ 11,202,Kitchener,OHL
+1,9,12 NA,NYI,Josh Bailey,C,CAN,6′ 1,201,Windsor,OHL
+1,10,10 NA,VAN,Cody Hodgson,C,CAN,6′ 0,185,Brampton,OHL
+1,11,4 NA,CHI,Kyle Beach,LW,CAN,6′ 3,202,Everett,WHL
+1,12,6 NA,BUF,Tyler Myers,D,USA,6′ 8,227,Kelowna,WHL
+1,13,27 NA,LAK,Colten Teubert,D,CAN,6′ 4,195,Regina,WHL
+1,14,11 NA,CAR,Zach Boychuk,C,CAN,5′ 10,185,Lethbridge,WHL
+1,15,4 EUR,OTT,Erik Karlsson,D,SWE,6′ 0,175,Frolunda Jr.,SWE-JR.
+1,16,30 NA,BOS,Joe Colborne,C,CAN,6′ 5,190,Camrose,AJHL
+1,17,22 NA,ANA,Jake Gardiner,D,USA,6′ 1,173,Minnetonka,HIGH-MN
+1,18,2 NA-G,NSH,Chet Pickard,G,CAN,6′ 2,213,Tri-City,WHL
+1,19,18 NA,PHI,Luca Sbisa,D,ITA,6′ 2,204,Lethbridge,WHL
+1,20,14 NA,NYR,Michael Del Zotto,D,CAN,6′ 0,193,Oshawa,OHL
+1,21,5 EUR,WSH,Anton Gustafsson,C,SWE,6′ 2,193,Frolunda Jr.,SWE-JR.
+1,22,24 NA,EDM,Jordan Eberle,C,CAN,6′ 0,185,Regina,WHL
+1,23,15 NA,MIN,Tyler Cuma,D,CAN,6′ 2,180,Ottawa,OHL
+1,24,3 EUR,NJD,Mattias Tedenby,L,SWE,5′ 10,175,HV 71,SWEDEN
+1,25,25 NA,CGY,Greg Nemisz,C,CAN,6′ 3,197,Windsor,OHL
+1,26,17 NA,BUF,Tyler Ennis,C,CAN,5′ 9,157,Medicine Hat,WHL
+1,27,19 NA,WSH,John Carlson,D,USA,6′ 3,208,Indiana,USHL
+1,28,7 EUR,PHX,Viktor Tikhonov,F,LVA,6′ 2,190,Cherepovets,RUSSIA
+1,29,89 NA,ATL,Daultan Leveille,C,CAN,6′ 0,172,St. Catharine’s,GHL
+1,30,1 NA-G,DET,Tom McCollum,G,USA,6′ 2,205,Guelph,OHL
+2,31,1 EUR-G,FLA,Jacob Markstrom,G,SWE,6′ 3,178,Brynas Jr.,SWE-JR.
+2,32,8 EUR,LAK,Slava Voynov,D,RUS,5′ 11,193,Chelyabinsk,RUSSIA
+2,33,38 NA,STL,Philip McRae,C,USA,6′ 2,200,London,OHL
+2,34,8 NA-G,STL,Jake Allen,G,CAN,6′ 2,190,St. John’s,QMJHL
+2,35,28 NA,ANA,Nicolas Deschamps,C,CAN,6′ 0,173,Chicoutimi,QMJHL
+2,36,46 NA,NYI,Corey Trivino,C,CAN,6′ 1,170,Stouffville,OPJHL
+2,37,48 NA,CBJ,Cody Goloubef,D,CAN,6′ 0,195,U. of Wisconsin,WCHA
+2,38,6 EUR,NSH,Roman Josi,D,CHE,6′ 1,198,Bern,SWISS
+2,39,NR,ANA,Eric O’Dell,C,CAN,6′ 0,195,Sudbury,OHL
+2,40,35 NA,NYI,Aaron Ness,D,USA,5′ 10,170,Roseau High,HIGH-MN
+2,41,21 NA,VAN,Yann Sauve,D,CAN,6′ 3,209,Saint John,QMJHL
+2,42,119 NA,OTT,Patrick Wiercioch,D,CAN,6′ 4,192,Omaha,USHL
+2,43,56 NA,ANA,Justin Schultz,D,CAN,6′ 1,163,Westside,BCHL
+2,44,66 NA,BUF,Luke Adam,C,CAN,6′ 2,203,St. John’s,QMJHL
+2,45,26 NA,CAR,Zac Dalpe,F,CAN,6′ 1,195,Penticton,BCHL
+2,46,8 NA,FLA,Colby Robak,D,CAN,6′ 3,194,Brandon,WHL
+2,47,36 NA,BOS,Max Sauve,C,FRA,6′ 0,170,Val d’Or,QMJHL
+2,48,37 NA,CGY,Mitch Wahl,C,USA,6′ 0,175,Spokane,WHL
+2,49,32 NA,PHX,Jared Staal,R,CAN,6′ 4,210,Sudbury,OHL
+2,50,NR,COL,Cameron Gaunce,D,CAN,6′ 1,203,Mississauga,OHL
+2,51,72 NA,NYR,Derek Stepan,C,USA,6′ 0,182,Shattuck-St. Mary’s,HIGH-MN
+2,52,57 NA,NJD,Brandon Burlon,D,CAN,6′ 0,190,St. Michael’s,OPJHL
+2,53,54 NA,NYI,Travis Hamonic,D,CAN,6′ 2,208,Moose Jaw,WHL
+2,54,82 NA,NJD,Patrice Cormier,C,CAN,6′ 2,215,Rimouski,QMJHL
+2,55,NR,MIN,Marco Scandella,D,CAN,6′ 2,190,Val d’Or,QMJHL
+2,56,40 NA,MTL,Danny Kristo,R,USA,5′ 11,172,USA U-18,USDP
+2,57,63 NA,WSH,Eric Mestery,D,CAN,6′ 5,195,Tri-City,WHL
+2,58,10 EUR,WSH,Dmitri Kugryshev,R,RUS,5′ 11,183,CSKA 2,RUSSIA-3
+2,59,16 NA-G,DAL,Tyler Beskorowany,G,CAN,6′ 4,208,Owen Sound,OHL
+2,60,65 NA,TOR,Jimmy Hayes,R,USA,6′ 5,210,Lincoln,USHL
+2,61,3 NA-G,COL,Peter Delmas,G,CAN,6′ 2,169,Lewiston,QMJHL
+3,62,102 NA,SJS,Justin Daniels,C,USA,6′ 1,175,Kent School,HIGH-CT
+3,63,116 NA,LAK,Robert Czarnik,F,USA,6′ 0,188,USA U-18,USDP
+3,64,41 NA,ATL,Danick Paquette,R,CAN,6′ 1,210,Lewiston,QMJHL
+3,65,23 EUR,STL,Jori Lehtera,C,FIN,6′ 2,191,Tappara,FINLAND
+3,66,71 NA,NYI,David Toews,C,CAN,5′ 10,196,Shattuck-St. Mary’s,HIGH-MN
+3,67,202 NA,PHI,Marc-Andre Bourdon,D,CAN,6′ 0,206,Rouyn-Noranda,QMJHL
+3,68,49 NA,CHI,Shawn Lalonde,D,CAN,6′ 1,192,Belleville,OHL
+3,69,51 NA,PHX,Michael Stone,D,CAN,6′ 3,200,Calgary,WHL
+3,70,42 NA,STL,James Livingston,R,CAN,6′ 1,200,Sault Ste. Marie,OHL
+3,71,114 NA,ANA,Josh Brittain,L,CAN,6′ 4,210,Kingston,OHL
+3,72,29 NA,NYI,Jyri Niemi,D,FIN,6′ 3,203,Saskatoon,WHL
+3,73,2 EUR,NYI,Kirill Petrov,R,RUS,6′ 3,198,Kazan,RUSSIA
+3,74,NR,LAK,Andrew Campbell,D,CAN,6′ 4,207,Sault Ste. Marie,OHL
+3,75,9 EUR,NYR,Evgeny Grachev,C,RUS,6′ 4,224,Yaroslavl 2,RUSSIA-3
+3,76,95 NA,PHX,Mathieu Brodeur,D,CAN,6′ 5,190,Cape Breton,QMJHL
+3,77,5 NA-G,BOS,Michael Hutchinson,G,CAN,6′ 3,185,Barrie,OHL
+3,78,52 NA,CGY,Lance Bouma,C,CAN,6′ 1,210,Vancouver,WHL
+3,79,NR,OTT,Zack Smith,C,CAN,6′ 2,210,Swift Current,WHL
+3,80,81 NA,FLA,Adam Comrie,D,CAN,6′ 4,205,Saginaw,OHL
+3,81,61 NA,BUF,Corey Fienhage,D,USA,6′ 2,190,Eastview High,HIGH-MN
+3,82,47 NA,NJD,Adam Henrique,C,CAN,6′ 0,200,Windsor,OHL
+3,83,20 NA-G,ANA,Marco Cousineau,G,CAN,6′ 0,195,Baie Comeau,QMJHL
+3,84,6 NA-G,PHI,Jacob Deserres,G,CAN,6′ 2,195,Seattle,WHL
+3,85,44 NA,ANA,Brandon McMillan,C,CAN,5′ 11,188,Kelowna,WHL
+3,86,127 NA,MTL,Steve Quailer,R,USA,6′ 3,184,Sioux City,USHL
+3,87,94 NA,STL,Ian Schultz,R,CAN,6′ 1,179,Calgary,WHL
+3,88,69 NA,LAK,Geordie Wudrick,L,CAN,6′ 3,213,Swift Current,WHL
+3,89,132 NA,DAL,Scott Winkler,C,NOR,6′ 2,195,Russell Stover,MIDGET
+3,90,12 EUR,NYR,Tomas Kundratek,D,CZE,6′ 2,201,Trinec,CZREP
+3,91,117 NA,DET,Max Nicastro,D,USA,6′ 2,189,Chicago,USHL
+4,92,161 NA,SJS,Samuel Groulx,D,CAN,6′ 2,182,Quebec,QMJHL
+4,93,4 NA-G,WSH,Braden Holtby,G,CAN,6′ 1,209,Saskatoon,WHL
+4,94,122 NA,ATL,Vinny Saponari,R,USA,6′ 0,179,USA U-18,USDP
+4,95,103 NA,STL,David Warsofsky,D,USA,5′ 8,160,USA U-18,USDP
+4,96,NR,NYI,Matt Donovan,D,USA,6′ 0,195,Cedar Rapids,USHL
+4,97,23 NA,BOS,Jamie Arniel,C,CAN,5′ 11,183,Sarnia,OHL
+4,98,16 NA,TOR,Mikhail Stefanovich,C,BLR,6′ 2,202,Quebec,QMJHL
+4,99,NR,PHX,Colin Long,C,USA,5′ 11,187,Kelowna,WHL
+4,100,20 NA,FLA,AJ Jenks,L,USA,6′ 2,206,Plymouth,OHL
+4,101,60 NA,BUF,Justin Jokinen,R,USA,6′ 2,165,Cloquet,HIGH-MN
+4,102,17 EUR,NYI,David Ullstrom,F,SWE,6′ 2,194,HV 71 Jr.,SWE-JR.
+4,103,13 EUR,EDM,Johan Motin,D,SWE,6′ 2,220,Bofors,SWEDEN-2
+4,104,75 NA,BUF,Jordon Southorn,D,CAN,6′ 2,185,PEI,QMJHL
+4,105,176 NA,CAR,Michal Jordan,D,CZE,6′ 1,186,Plymouth,OHL
+4,106,2 EUR-G,SJS,Harri Sateri,G,FIN,6′ 1,210,Tappara,FINLAND
+4,107,62 NA,CBJ,Steven Delisle,D,CAN,6′ 6,209,Gatineau,QMJHL
+4,108,53 NA,CGY,Nicholas Larson,L,USA,6′ 1,182,Waterloo,USHL
+4,109,19 EUR,OTT,Andre Petersson,F,SWE,5′ 9,169,HV 71 Jr.,SWE-JR.
+4,110,33 NA,COL,Kelsey Tessier,C,CAN,5′ 9,168,Quebec,QMJHL
+4,111,NR,NYR,Dale Weise,R,CAN,6′ 2,210,Swift Current,WHL
+4,112,50 NA,NJD,Matt Delahey,D,CAN,6′ 1,210,Regina,WHL
+4,113,NR,ANA,Ryan Hegarty,D,USA,6′ 0,196,USA U-18,USDP
+4,114,164 NA,CGY,TJ Brodie,D,CAN,6′ 1,182,Saginaw,OHL
+4,115,NR,MIN,Sean Lorenz,D,CAN,6′ 1,191,USA U-18,USDP
+4,116,23 NA-G,MTL,Jason Missiaen,G,CAN,6′ 8,193,Peterborough,OHL
+4,117,43 NA,TBL,James Wright,C,CAN,6′ 4,200,Vancouver,WHL
+4,118,110 NA,CBJ,Drew Olson,D,USA,5′ 11,215,Brainerd-High,HIGH-MN
+4,119,106 NA,OTT,Derek Grant,C,CAN,6′ 3,190,Langley,BCHL
+4,120,118 NA,PIT,Nathan Moon,C,CAN,5′ 11,179,Kingston,OHL
+4,121,149 EUR,DET,Gustav Nyquist,C,SWE,5′ 10,169,Malmo Jr.,SWE-JR.
+5,122,9 NA-G,TBL,Dustin Tokarski,G,CAN,5′ 11,198,Spokane,WHL
+5,123,15 EUR,LAK,Andrei Loktionov,C,RUS,5′ 10,180,Yaroslavl 2,RUSSIA-3
+5,124,31 EUR,ATL,Nicklas Lasu,L,SWE,5′ 11,176,Frolunda Jr.,SWE-JR.
+5,125,14 EUR,STL,Kristoffer Berglund,D,SWE,5′ 10,180,Bjorkloven,SWEDEN-2
+5,126,7-NA G,NYI,Kevin Poulin,G,CAN,6′ 2,211,Victoriaville,QMJHL
+5,127,45 NA,CBJ,Matt Calvert,L,CAN,5′ 9,164,Brandon,WHL
+5,128,162 NA,TOR,Greg Pateryn,D,USA,6′ 2,212,Ohio,USHL
+5,129,87 NA,TOR,Joel Champagne,C,CAN,6′ 4,210,Chicoutimi,QMJHL
+5,130,22 EUR,TOR,Jerome Flaake,L,DEU,6′ 2,187,Koln,GERMANY
+5,131,NR,VAN,Prab Rai,C,CAN,5′ 11,191,Seattle,WHL
+5,132,128 NA,CHI,Teigan Zahn,D,CAN,6′ 2,222,Saskatoon,WHL
+5,133,31 NA,EDM,Philippe Cornet,L,CAN,6′ 0,196,Rimouski,QMJHL
+5,134,34 NA,BUF,Jacob Lagace,L,CAN,5′ 11,190,Chicoutimi,QMJHL
+5,135,21 EUR,CBJ,Tomas Kubalik,R,CZE,6′ 2,189,Plzen,CZREP
+5,136,73 NA,NSH,Taylor Stefishen,L,CAN,5′ 11,191,Langley,BCHL
+5,137,NR,CBJ,Brent Regner,D,CAN,5′ 11,175,Vancouver,WHL
+5,138,55 EUR,MTL,Maxim Trunev,F,RUS,5′ 11,174,Cherepovets 2,RUSSIA-3
+5,139,NR,OTT,Mark Borowiecki,D,CAN,6′ 1,185,Smiths Falls,CJHL
+5,140,NR,COL,Mark Olver,C,CAN,5′ 10,170,Northern Michigan,CCHA
+5,141,80 NA,NYR,Chris Doyle,C,CAN,6′ 0,191,PEI,QMJHL
+5,142,NR,NJD,Kory Nagy,C,CAN,5′ 11,195,Oshawa,OHL
+5,143,NR,ANA,Stefan Warg,D,SWE,6′ 2,187,Vasteras Jr.,SWE-JR.
+5,144,58 NA,WSH,Joel Broda,C,CAN,6′ 0,196,Moose Jaw,WHL
+5,145,NR,MIN,Eero Elo,L,FIN,6′ 3,189,Lukko Jr.,FINLAND-JR.
+5,146,64 NA,SJS,Julien Demers,D,CAN,6′ 0,215,Ottawa,OHL
+5,147,NR,TBL,Kyle De Coste,R,CAN,6′ 2,195,Brampton,OHL
+5,148,NR,NYI,Matt Martin,L,CAN,6′ 3,210,Sarnia,OHL
+5,149,11 EUR,DAL,Philip Larsen,D,DNK,6′ 1,183,Frolunda,SWEDEN
+5,150,10 EUR-G,PIT,Alexander Pechurskiy,G,RUS,6′ 0,187,Magnitogorsk 2,RUSSIA-3
+5,151,77 NA,DET,Julien Cayer,C,CAN,6′ 4,186,Northwood School,HIGH-NY
+6,152,85 NA,TBL,Mark Barberio,D,CAN,6′ 1,197,Moncton,QMJHL
+6,153,NR,LAK,Justin Azevedo,C,CAN,5′ 7,175,Kitchener,OHL
+6,154,10 NA-G,ATL,Christopher Carrozzi,G,CAN,6′ 3,195,Mississauga,OHL
+6,155,76 NA,STL,Anthony Nigro,C,CAN,5′ 11,180,Guelph,OHL
+6,156,144 NA,NYI,Jared Spurgeon,D,CAN,5′ 9,185,Spokane,WHL
+6,157,NR,CBJ,Cam Atkinson,R,USA,5′ 9,165,Avon Old Farms,HIGH-CT
+6,158,NR,TOR,Grant Rollheiser,G,CAN,6′ 4,195,Trail,BCHL
+6,159,NR,PHX,Brett Hextall,C,USA,5′ 10,176,Penticton,BCHL
+6,160,NR,TBL,Luke Witkowski,D,USA,6′ 2,200,Ohio,USHL
+6,161,NR,VAN,Mats Froshaug,C,NOR,6′ 1,198,Linkoping Jr.,SWE-JR.
+6,162,64 EUR,CHI,Jonathan Carlsson,D,SWE,6′ 2,187,Brynas,SWEDEN
+6,163,25 EUR,EDM,Teemu Hartikainen,C,FIN,6′ 1,215,Kalpa Jr.,FINLAND-JR.
+6,164,NR,BUF,Nick Crawford,D,CAN,6′ 1,199,Saginaw,OHL
+6,165,NR,CAR,Mike Murphy,G,CAN,5′ 11,165,Belleville,OHL
+6,166,NR,NSH,Jeffrey Foss,D,USA,6′ 2,205,RPI,ECAC
+6,167,171 NA,COL,Joel Chouinard,D,CAN,6′ 1,186,Victoriaville,QMJHL
+6,168,NR,CGY,Ryley Grantham,C,CAN,6′ 3,207,Moose Jaw,WHL
+6,169,184 NA,CHI,Ben Smith,R,USA,5′ 11,205,Boston College,H-EAST
+6,170,NR,COL,Jonas Holos,D,NOR,5′ 11,196,Sarpsborg,NORWAY
+6,171,NR,NYR,Mitch Gaulton,D,CAN,6′ 0,207,Erie,OHL
+6,172,189 NA,NJD,David Wohlberg,C,USA,6′ 1,192,USA U-18,USDP
+6,173,NR,BOS,Nick Tremblay,C,CAN,5′ 11,190,Smiths Falls,CJHL
+6,174,175 NA,WSH,Greg Burke,L,USA,6′ 1,185,Jr. Monarchs,EJHL
+6,175,NR,NYI,Justin DiBenedetto,C,CAN,6′ 0,188,Sarnia,OHL
+6,176,108 NA,DAL,Matt Tassone,C,CAN,6′ 0,200,Swift Current,WHL
+6,177,NR,SJS,Tommy Wingels,C,USA,6′ 0,195,Miami University,CCHA
+6,178,NR,PHI,Zac Rinaldo,C,CAN,5′ 11,169,Mississauga,OHL
+6,179,NR,CHI,Braden Birch,D,CAN,6′ 3,192,Oakville,OPJHL
+6,180,15 NA-G,PIT,Patrick Killeen,G,CAN,6′ 4,204,Brampton,OHL
+6,181,186 NA,DET,Stephen Johnston,L,CAN,6′ 1,175,Belleville,OHL
+7,182,42 EUR,TBL,Matias Sointu,R,FIN,5′ 10,154,Ilves Jr.,FINLAND-JR.
+7,183,NR,LAK,Garrett Roe,L,USA,5′ 8,162,St. Cloud State,WCHA
+7,184,NR,ATL,Zach Redmond,D,USA,6′ 2,197,Ferris State,CCHA
+7,185,NR,STL,Paul Karpowich,G,CAN,6′ 2,195,Wellington,OPJHL
+7,186,NR,SJS,Jason Demers,D,CAN,6′ 1,195,Victoriaville,QMJHL
+7,187,NR,CBJ,Sean Collins,C,CAN,6′ 3,184,Waywayseecappo,MJHL
+7,188,59 NA,TOR,Andrew MacWilliam,D,CAN,6′ 2,214,Camrose,AJHL
+7,189,NR,PHX,Tim Billingsley,D,CAN,6′ 1,177,Mississauga,OHL
+7,190,NR,FLA,Matt Bartkowski,D,USA,6′ 1,196,Lincoln,USHL
+7,191,18 NA-G,VAN,Morgan Clark,G,CAN,5′ 11,160,Red Deer,WHL
+7,192,188 NA,CHI,Joe Gleason,D,USA,5′ 9,171,Edina High,HIGH-MN
+7,193,NR,EDM,Jordan Bendfeld,D,CAN,6′ 3,245,Medicine Hat,WHL
+7,194,113 NA,SJS,Drew Daniels,R,USA,6′ 2,185,Kent School,HIGH-CT
+7,195,92 NA,CAR,Samuel Morneau,L,CAN,5′ 11,190,Baie Comeau,QMJHL
+7,196,6 EUR-G,PHI,Joacim Eriksson,G,SWE,6′ 1,189,Brynas Jr.,SWE-JR.
+7,197,142 NA,BOS,Mark Goggin,C,USA,5′ 11,177,Choate-Rosemary,HIGH-CT
+7,198,NR,CGY,Alexander Deilert,D,SWE,5′ 11,180,Djurgarden Jr.,SWE-JR.
+7,199,NR,OTT,Emil Sandin,L,SWE,5′ 10,178,Brynas,SWEDEN
+7,200,70 NA,COL,Nate Condon,C,USA,6′ 0,180,Wausau,HIGH-WI
+7,201,49 EUR,NSH,Jani Lajunen,C,FIN,6′ 1,184,Blues Jr.,FINLAND-JR.
+7,202,97 NA,NJD,Harry Young,D,CAN,6′ 4,215,Windsor,OHL
+7,203,74 NA,TBL,David Carle,D,USA,5′ 11,180,Shattuck-St. Mary’s,HIGH-MN
+7,204,NR,WSH,Stefan Della Rovere,L,CAN,5′ 11,200,Barrie,OHL
+7,205,124 NA,NJD,Jean-Sebastien Berube,L,CAN,6′ 4,210,Rouyn-Noranda,QMJHL
+7,206,NR,MTL,Patrick Johnson,C,USA,5′ 9,155,U. of Wisconsin,WCHA
+7,207,3 EUR-G,NSH,Anders Lindback,G,SWE,6′ 6,205,Brynas,SWEDEN
+7,208,NR,ANA,Nick Pryor,D,USA,5′ 11,184,USA U-18,USDP
+7,209,NR,DAL,Mike Bergin,D,CAN,6′ 3,197,CJHL,SMITH FALLS
+7,210,NR,PIT,Nicholas D’Agostino,D,CAN,6′ 2,197,St. Michael’s,OPJHL
+7,211,NR,DET,Jesper Samuelsson,C,SWE,5′ 11,178,Timra,SWE
