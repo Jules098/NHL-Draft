@@ -1,5 +1,5 @@
 # NHL-Draft
-This project will be a statistical analysis of the NHL draft.
+This project will be an attempt at building a machine learning model to predict the likeliest player's to become NHLers prior to the draft.
 
 ## Database engineering
 
