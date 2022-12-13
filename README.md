@@ -13,13 +13,13 @@ The cleaning of the data and the structuring of the database largely took place 
 
 The last part of the cleaning process was defining an NHLer.  I have defined it here as a player who has played at least 200 NHL games.  This threshold allows us to be certain the player had an impact on their team/teams for long enough to be considered a full-time NHLer.  Players who played under this threshold were determined to not be NHLers.
 
-<img width="720" alt="Cumulative Points Scored per Draft Round" src="https://user-images.githubusercontent.com/110205528/207433544-84d61428-7a32-4dee-a537-62053bd38846.png">
-
 ## Exploratory Data Analysis and Visualization
 
 <img width="862" alt="Games Played per pick by Team" src="https://user-images.githubusercontent.com/110205528/207431522-93326ada-a21a-4445-a829-cd28bc4bd52b.png">
 
 Visualizing draft pick value and team draft performance is crucial to ultimately being able to evaluate the model later.  Between 2007 and 2014 the Los Angeles Kings drafted players with the most total games played out of their draft picks, with 11 306 total. They also got the most games played per pick. The Tampa Bay Lightning drafted the highest scoring players in the draft, while also drafting the most players with the highest points per pick of the draft.  The New York Islanders were 2nd in all 4 categories.  On these metrics these 3 teams were the most successful drafting teams in the time period of this analysis, and it led to two of the three winning multiple Stanley cups: LA in 2012 and 2014, and Tampa Bay in 2020 and 2021.
+
+<img width="720" alt="Cumulative Points Scored per Draft Round" src="https://user-images.githubusercontent.com/110205528/207433544-84d61428-7a32-4dee-a537-62053bd38846.png">
 
 ## Feature Engineering - NHLe
 
