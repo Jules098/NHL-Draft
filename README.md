@@ -1,5 +1,5 @@
 # NHL-Draft
-This project will be an attempt at building a machine learning model to predict the likeliest player's to become NHLers prior to the draft.
+This project is an attempt at bringing machine learning approaches to the NHL draft with the goal of improving a team's ability to find NHL players earlier in the draft.
 
 ## Database engineering
 
