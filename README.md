@@ -1,4 +1,7 @@
 # NHL-Draft
+
+![image](https://user-images.githubusercontent.com/110205528/207988075-9cb6313a-3127-4ba6-a2d1-22b433492719.png)
+
 This project is an attempt at bringing machine learning approaches to the NHL draft with the goal of improving a team's ability to find NHL players earlier in the draft.
 
 ## Database engineering
